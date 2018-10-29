@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 1  手机京东首页实例
 
 > 目录：
@@ -341,3 +342,6 @@ var myScroll = new IScroll('#wrapper');
 </script>
 ```
 
+=======
+# JD
+>>>>>>> 052bb7ced0ca38f13d3f016753c54c76904b7279
